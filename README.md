@@ -10,6 +10,7 @@
 - 📫 How to reach me **hoangdai9895@gmail.com**
 
 - 📄 Know about my experiences [...](...)
+![](https://komarev.com/ghpvc/?username=hoangdai9895)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
