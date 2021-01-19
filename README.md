@@ -1,4 +1,4 @@
-<img align="center" src="https://imgur.com/0omKvZ2.png" />
+<h1 align="center"><img align="center" src="https://imgur.com/0omKvZ2.png" /></h1>
 <h1 align="center">Hi 👋, I'm Dai</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 
